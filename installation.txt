@@ -1,0 +1,23 @@
+Chrome
+
+1. Dézipper le dossier
+
+2. Dans Chrome : Aller dans Outils >> Extensions
+
+3. Cocher "Mode développeur"
+
+4. Cliquez sur "charger l'extension non empaquetée" et sélectionner le dossier du plugin
+
+
+
+-----------
+
+Firefox
+
+1. Dézipper le dossier
+
+2. Dans Firefox : Taper l'adresse : about:debugging
+
+3. Dans "Ce Firefox" >> "Charger un module complémentaire temporaire..." et sélectionner le dossier du plugin
+
+4. Si Firefox en mode privé, taper l'adresse : about:addons et sur l'extension autoriser l'exécution dans les fenêtres privées
